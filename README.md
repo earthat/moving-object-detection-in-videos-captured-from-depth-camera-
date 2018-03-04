@@ -4,9 +4,7 @@ The algorithm for moving object tracking is based on the uploaded paper. The inp
 The feed can be downloaded from here https://www.dropbox.com/s/kmzbgm7l2vudyik/1.mp4?dl=0
 
 the output looks like this
-<p>
-    <img src="https://github.com/earthat/moving-object-detection-in-videos-captured-from-depth-camera-/tree/images/1.png" width="220" height="240" />
-</p>
+
 ![ScreenShot](https://github.com/earthat/moving-object-detection-in-videos-captured-from-depth-camera-/tree/images/1.png)
 
 ![ScreenShot](https://github.com/earthat/moving-object-detection-in-videos-captured-from-depth-camera-/tree/images/2.png)

@@ -5,7 +5,7 @@ The feed can be downloaded from here https://www.dropbox.com/s/kmzbgm7l2vudyik/1
 
 the output looks like this
 
-![ScreenShot](https://github.com/earthat/moving-object-detection-in-videos-captured-from-depth-camera-/tree/images/1.png)
+![ScreenShot](https://user-images.githubusercontent.com/11607018/36942180-704000ea-1f92-11e8-8a55-4abe6747cf8b.png)
 
-![ScreenShot](https://github.com/earthat/moving-object-detection-in-videos-captured-from-depth-camera-/tree/images/2.png)
+![ScreenShot](https://user-images.githubusercontent.com/11607018/36942183-7592ea08-1f92-11e8-8854-39fa5942bdd0.png)
 
